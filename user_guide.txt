@@ -1,0 +1,22 @@
+1. Dashboard Overview:
+
+    View Bookings: Upon opening, you see a list of all bookings.
+    Filter and Search:
+    Use the search box to find bookings by customer name or ID.
+    Filter bookings by status ('All', 'Pending', 'Booked', 'Not Booked').
+
+2. Selecting and Managing Bookings:
+
+    Select Customers: Check the box next to each customer to select them.
+    Actions Available:
+    Approve Booking: Click 'Approve' to confirm selected bookings.
+    Decline Booking: Click 'Decline' to reject selected bookings.
+    Remove Customer: Click 'Remove' to delete selected bookings.
+
+3. Adding a New Customer:
+
+    Navigate to Add Form:
+    Click 'Add Customer' to enter details for a new booking.
+    Fill out Form:
+    Enter customer details including name, ID type/number, age, contact, room type, dates, services, bill amount, and payment option.
+    Submit the form to add the customer with a 'Pending' booking status.
